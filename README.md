@@ -1,0 +1,14 @@
+To run the firefox_profile_switcher.py program, you'll need to have the following installed:
+
+Requirements:
+Python 3.x: Make sure you have Python 3.x installed.
+Required Python Packages:
+tkinter (for GUI): Usually comes with Python on Windows. If not, you'll need to install it.
+subprocess: This is a standard library in Python, so no additional installation is needed.
+os: Another standard library in Python, no need to install it.
+json: Also part of the standard library, so no installation is needed.
+Mozilla Firefox: Ensure Firefox is installed on your system.
+also you need to have a profile on mozilla firefox
+
+if you know futher assistance message me on here or discord
+Discord:narutokun143
